@@ -9,6 +9,7 @@ I am a Software Developer, currently studying Computer Science @ UCC.
 * Technical Intern @ [Teamwork](https://github.com/Teamwork)
 
 #### Previous
+* SysAdmin @ [UCC Netsoc](https://github.com/UCCNetsoc)
 * Junior Software Developer @ [CloudCIX](https://github.com/CloudCIX)
 
 ### 🚀 Contact Me
