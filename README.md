@@ -1,5 +1,3 @@
-### 👋 Heya
-
 ## 👱 My name is Oisin (he/him).
 I am a Software Developer, currently studying Computer Science @ UCC.
 
