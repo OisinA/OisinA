@@ -1,16 +1,18 @@
-### Hi there 👋
+### 👋 Heya
 
-<!--
-**OisinA/OisinA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👱 My name is Oisin (he/him).
+I am a Software Developer, currently studying Computer Science @ UCC.
 
-Here are some ideas to get you started:
+### 💻 Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Current
+
+* Chairperson @ [UCC Netsoc](https://github.com/UCCNetsoc)
+* Technical Intern @ [Teamwork](https://github.com/Teamwork)
+
+#### Previous
+* Junior Software Developer @ [CloudCIX](https://github.com/CloudCIX)
+
+### 🚀 Contact Me
+* [Twitter](https://twitter.com/oisinaylward)
+* [LinkedIn](www.linkedin.com/in/oisin-aylward)
