@@ -1,4 +1,4 @@
-## 👱 My name is Oisin (he/him).
+## 👱 My name is Oisín (he/him).
 I am a Software Developer, currently studying Computer Science @ UCC.
 
 ### 💻 Experience
