@@ -14,4 +14,4 @@ I am a Software Developer, currently studying Computer Science @ UCC.
 
 ### 🚀 Contact Me
 * [Twitter](https://twitter.com/oisinaylward)
-* [LinkedIn](www.linkedin.com/in/oisin-aylward)
+* [LinkedIn](https://www.linkedin.com/in/oisin-aylward)
