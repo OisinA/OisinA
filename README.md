@@ -1,5 +1,5 @@
 ## 👱 My name is Oisín (he/him).
-I am a Software Developer, currently studying Computer Science @ UCC.
+I am a Software Developer, currently studying Computer Science @ UCC. Currently interested in Compilers & WebAssembly.
 
 ### 💻 Experience
 
