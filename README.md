@@ -1,16 +1,16 @@
 ## 👱 My name is Oisín (he/him).
-I am a Software Developer, currently studying Computer Science @ UCC. Currently interested in Compilers & WebAssembly.
+Software Developer in Ireland.
 
 Check out my blog over at [blog.oisinaylward.me](https://blog.oisinaylward.me)!
 
 ### 💻 Experience
 
 #### Current
-
-* Chairperson @ [UCC Netsoc](https://github.com/UCCNetsoc)
-* Technical Intern @ [Teamwork](https://github.com/Teamwork)
+* Ex-Officio @ [UCC Netsoc](https://github.com/UCCNetsoc)
 
 #### Previous
+* Chairperson @ [UCC Netsoc](https://github.com/UCCNetsoc)
+* Technical Intern @ [Teamwork](https://github.com/Teamwork)
 * SysAdmin @ [UCC Netsoc](https://github.com/UCCNetsoc)
 * Junior Software Developer @ [CloudCIX](https://github.com/CloudCIX)
 
