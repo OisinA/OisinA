@@ -6,6 +6,7 @@ Check out my blog over at [blog.oisinaylward.me](https://blog.oisinaylward.me)!
 ### 💻 Experience
 
 #### Current
+* DevOps Engineer @ [Workday](https://workday.com)
 * Ex-Officio @ [UCC Netsoc](https://github.com/UCCNetsoc)
 
 #### Previous
