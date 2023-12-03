@@ -7,9 +7,9 @@ Check out my blog over at [blog.oisinaylward.me](https://blog.oisinaylward.me)!
 
 #### Current
 * DevOps Engineer @ [Workday](https://workday.com)
-* Ex-Officio @ [UCC Netsoc](https://github.com/UCCNetsoc)
 
 #### Previous
+* Ex-Officio @ [UCC Netsoc](https://github.com/UCCNetsoc)
 * Chairperson @ [UCC Netsoc](https://github.com/UCCNetsoc)
 * Technical Intern @ [Teamwork](https://github.com/Teamwork)
 * SysAdmin @ [UCC Netsoc](https://github.com/UCCNetsoc)
